@@ -6,7 +6,7 @@ I am particularly interested in problems where **biology, computation, and pharm
 
 ---
 
-## 🧬 Research Interests
+##  Research Interests
 - PCOS pathophysiology and clinical heterogeneity  
 - Medicinal plants as sources of pharmacologically active leads  
 - Cancer systems biology and tumor microenvironment dynamics  
