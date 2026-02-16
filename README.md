@@ -1,4 +1,4 @@
-### Hi, I’m Harshita 👋
+### Hi, I’m Harshita 
 
 I am a **Pharmacy undergraduate researcher** working at the intersection of **biomedical research**, **drug discovery**, and **data-driven analysis of disease biology**. My work integrates **wet-lab experimentation** with **R-based statistical analysis** and **introductory AI-assisted workflows** to investigate drug response, disease heterogeneity, and translational research questions.
 
@@ -14,16 +14,16 @@ I am particularly interested in problems where **biology, computation, and pharm
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Selected Research & Projects
+## Selected Research & Projects
 
-### 🔹 Bioinformatics & Data Science (Dry Lab)
+###  Bioinformatics & Data Science (Dry Lab)
 
 **PCOS Clinical Data Analysis (R)**  
 Designed an **end-to-end R analysis pipeline** to explore clinical and biochemical parameters in PCOS, including BMI, hormonal profiles, and follicular characteristics. The project emphasizes **reproducible research practices**, with structured data cleaning following **tidyverse principles** and automated reporting using **RMarkdown/Quarto**, enabling traceability from raw clinical data to final visualizations.  
@@ -41,7 +41,7 @@ The project resulted in **2nd place at an international biodesign hackathon**, a
 
 ---
 
-### 🔹 Experimental Pharmacology (Wet Lab)
+###  Experimental Pharmacology (Wet Lab)
 
 **Medicinal Plant Screening – *Adenanthera pavonina***  
 Conducted **pharmacognostic evaluation and phytochemical screening** of *Adenanthera pavonina* seed extracts using cold maceration and double-solvent extraction methods. Assessed **antioxidant activity (DPPH assay)** and **antimicrobial potential**, with ongoing progression toward **cell-line cytotoxicity assays** for anticancer evaluation.  
@@ -51,7 +51,7 @@ Findings from this work have been **accepted for oral presentation at a national
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 **Data Analysis & Programming**  
 - R (biostatistics, data handling, visualization)  
@@ -73,14 +73,14 @@ Findings from this work have been **accepted for oral presentation at a national
 
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 - Reproducible R workflows for biomedical research  
 - In-silico screening and lead optimization pipelines  
 - Foundations of AI interpretability in healthcare and drug discovery  
 
 ---
 
-## 🌱 Looking For
+##  Looking For
 - Research internships and structured summer programs  
 - Interdisciplinary research collaborations  
 - Mentorship toward a research-focused MSc and long-term academic career  
