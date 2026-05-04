@@ -39,15 +39,6 @@ The project resulted in **2nd place at an international biodesign hackathon**, a
 
 **Skills demonstrated:** structure-based drug design, ADMET filtering, computational screening, research leadership
 
----
-
-###  Experimental Pharmacology (Wet Lab)
-
-**Medicinal Plant Screening – *Adenanthera pavonina***  
-Conducted **pharmacognostic evaluation and phytochemical screening** of *Adenanthera pavonina* seed extracts using cold maceration and double-solvent extraction methods. Assessed **antioxidant activity (DPPH assay)** and **antimicrobial potential**, with ongoing progression toward **cell-line cytotoxicity assays** for anticancer evaluation.  
-Findings from this work have been **accepted for oral presentation at a national-level scientific conference**.
-
-**Skills demonstrated:** pharmacognosy, phytochemistry, bioactivity assays, experimental design
 
 ---
 
